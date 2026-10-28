@@ -2,7 +2,7 @@
 
 Turn any photo into a moving 3D **parallax video** (MP4, 1080p or 4K), right in your web browser.
 
-**Try it:** https://parallaxstudio1.netlify.app/
+**Try it:** https://doctorr1234-bot.github.io/parallax-studio/
 
 Nothing to install. Your photos never leave your computer: everything, including the AI, runs in the browser.
 
@@ -22,7 +22,7 @@ Nothing to install. Your photos never leave your computer: everything, including
 
 Open `index.html` in Chrome, Edge or Safari (17 or newer), or use the link above. An internet connection is needed the first time, to download the AI models (they are then kept by the browser).
 
-The whole app is this one file. To host your own copy, put `index.html` on any static web host (Netlify, GitHub Pages…).
+The whole app is this one file. To host your own copy, put `index.html` on any static web host. This repository is published with GitHub Pages.
 
 ## Built with
 
