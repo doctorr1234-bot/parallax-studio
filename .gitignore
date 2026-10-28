@@ -1,0 +1,6 @@
+# Mac folder settings
+.DS_Store
+# Copies made for sharing / Netlify (the app itself is index.html)
+*.zip
+Parallax Studio/
+Parallax Studio website/
